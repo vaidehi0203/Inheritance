@@ -1,7 +1,7 @@
 package oops_2;
 import java.util.*;
 
-
+// This program shows method overloading in which method have same name but different parameters.
 public class overloading {
 	                  
 	    public void area(int l) {
